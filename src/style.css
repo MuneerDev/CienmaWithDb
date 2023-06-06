@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #121212;
+  color: white;
+}
+p {
+  color: #d3d3d3;
+}
+
+.swiper-wrapper {
+  height: 200px;
+  margin-bottom: 50px;
+}
